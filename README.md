@@ -16,7 +16,7 @@
 - [vue-image-inputer](https://github.com/waynecz/vue-img-inputer) @优雅的图片输入框
 - [Holmes](https://github.com/waynecz/Holmes) @简洁的 Koa 后端脚手架
 - [vue-component-boilerplate](https://github.com/waynecz/vue-component-boilerplate) @Vue 组件的样板项目
-- [UX-easy-guide](http://waynecz.github.io/ux-simple-guide) @简单的 Web 用户体验增强自查表 with shortest code
+- [UX-easy-guide](http://waynecz.github.io/ux-easy-guide) @简单的 Web 用户体验增强自查表 with shortest code
 
 <br/>
 <br/>
