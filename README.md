@@ -44,5 +44,5 @@
 
 <img src="./assets/links.jpg?v=2" alit="logo"/>
 
-- [全栈的安全小弟](http://gnaixx.cc/) - [github](https://github.com/gnaixx)
-- [啥都会的烫神](https://blog.razord.top/) - [github](https://github.com/Dreamacro)
+- @[全栈的安全小弟](http://gnaixx.cc/) - [github](https://github.com/gnaixx)
+- @[啥都会的烫神](https://blog.razord.top/) - [github](https://github.com/Dreamacro)
