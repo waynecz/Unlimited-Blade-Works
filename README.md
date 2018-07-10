@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="./assets/side-project.jpg?v=1" alit="logo"/>
+<img src="./assets/side-project.jpg?v=2" alit="logo"/>
 
 - [达达划词翻译](https://github.com/waynecz/dadda-translate-crx) @好看的划词翻译插件
 - [vue-image-inputer](https://github.com/waynecz/vue-img-inputer) @优雅的图片输入框
@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="./assets/posts.jpg?v=1" alit="logo"/>
+<img src="./assets/posts.jpg?v=2" alit="logo"/>
 
 1.  [如果你也想写个完整的 Vue 组件项目](https://zhuanlan.zhihu.com/p/39012159)
 2.  [SVG: 浪啊，浪来了，大浪来了](https://zhuanlan.zhihu.com/p/36031294)
@@ -42,7 +42,7 @@
 
 <br/>
 
-<img src="./assets/links.jpg?v=1" alit="logo"/>
+<img src="./assets/links.jpg?v=2" alit="logo"/>
 
 - [全栈的安全小弟](http://gnaixx.cc/) - [github](https://github.com/gnaixx)
 - [啥都会的烫神](https://blog.razord.top/) - [github](https://github.com/Dreamacro)
