@@ -15,7 +15,7 @@
 - [达达划词翻译](https://github.com/waynecz/dadda-translate-crx) @好看的划词翻译插件
 - [vue-image-inputer](https://github.com/waynecz/vue-img-inputer) @优雅的图片输入框
 - [Holmes](https://github.com/waynecz/Holmes) @简洁的 Koa 后端脚手架
-- [vue-component-boilerplate](https://github.com/waynecz/vue-component-boilerplate) @Vue 组件的样板项目
+- [vue-component-boilerplate](https://github.com/waynecz/vue-component-boilerplate) @一条龙式 Vue 组件项目的模板
 - [UX-easy-guide](http://waynecz.github.io/ux-easy-guide) @简单的 Web 用户体验增强自查表 with shortest code
 
 <br/>
