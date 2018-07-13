@@ -14,9 +14,10 @@
 
 - [达达划词翻译](https://github.com/waynecz/dadda-translate-crx) @好看的划词翻译插件
 - [vue-image-inputer](https://github.com/waynecz/vue-img-inputer) @优雅的图片输入框
-- [Holmes](https://github.com/waynecz/Holmes) @简洁的 Koa 后端脚手架
-- [vue-component-boilerplate](https://github.com/waynecz/vue-component-boilerplate) @一条龙式 Vue 组件项目的模板
-- [UX-easy-guide](http://waynecz.github.io/ux-easy-guide) @简单的 Web 用户体验增强自查表 with shortest code
+- [Holmes](https://github.com/waynecz/Holmes) @开箱即用的 Koa 后端脚手架
+- [Watson](https://github.com/waynecz/Watson) @实用的 Sass mixins，针对嵌套的 BEM 优化其写法
+- [vue-component-boilerplate](https://github.com/waynecz/vue-component-boilerplate) @文档、构建、README 模板：一条龙式服务 Vue 组件的样板项目
+- [UX-easy-guide](http://waynecz.github.io/ux-simple-guide) @简单的 Web 用户体验增强自查表 with shortest code
 
 <br/>
 <br/>
@@ -46,5 +47,8 @@
 
 <img src="./assets/links.jpg?v=2" alit="links"/>
 
-- @[全栈的安全小弟](http://gnaixx.cc/) - [github](https://github.com/gnaixx)
-- @[啥都会的烫神](https://blog.razord.top/) - [github](https://github.com/Dreamacro)
+[全栈的安全小弟](http://gnaixx.cc/) ✈︎ [github](https://github.com/gnaixx) | [啥都会的烫神](https://blog.razord.top/) ☃︎ [github](https://github.com/Dreamacro) | 长者杨 ☁︎ [github](https://github.com/Leopoldthecoder)
+
+<br/>
+
+<img src="./assets/UBW-footer.jpg" alit="logo"/>
